@@ -1,6 +1,5 @@
 # Sims 4 Mods Manager ✨
 
-![preview](preview.svg)
 
 <br>
 
